@@ -10,11 +10,11 @@ I created an interactive sales dashboard that shows performance by product, regi
 ✔️ Key KPIs – Sales, Profit, Quantity
 ✔️ Monthly trends & category breakdowns
 
-📁 Dataset: Sales data ()
-🔧 Tools: Power BI | (Optional: Python for data prep)
+📁 Dataset: Sales data (superstore sales csv)
+🔧 Tools: Power BI | https://github.com/Aditypitty/Elevate_Task_8/tree/main
 
 Check it out here 👇
-🔗 github.com/your-username/your-repo-name
+🔗 https://github.com/Aditypitty/Elevate_Task_8/tree/main
 
 Let me know what you think or if you want the .pbix file!
 #powerbi #dashboarddesign #salesdashboard #dataviz #businessintelligence #dataanalytics
